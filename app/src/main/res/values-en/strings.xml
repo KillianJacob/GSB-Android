@@ -1,0 +1,33 @@
+<resources>
+  <string name="app_name">Galaxy Swiss Bourdin</string>
+
+  <!-- Other -->
+  <string name="nothing"> </string>
+  <string name="add">Add</string>
+  <string name="delete">Remove</string>
+  <string name="leave">Leave</string>
+  <string name="reset">Reset</string>
+
+  <!-- activity_main -->
+  <string name="mainTitle">Application for managing samples of food supplements</string>
+  <string name="mainAjout">Add a new sample</string>
+  <string name="mainListe">List of samples</string>
+  <string name="mainMaj">Update a sample</string>
+
+  <!-- activity_saisie_echantillon -->
+  <string name="saisieTitle">Enter a sample</string>
+  <string name="saisieCode">Enter a code</string>
+  <string name="saisieLibelle">Enter a label</string>
+  <string name="saisieStock">Enter a amount</string>
+
+  <!-- activity_maj_echantillon -->
+  <string name="majTitle">Update a sample</string>
+  <string name="majCode">Enter a code</string>
+  <string name="majLibelle">Enter a label</string>
+  <string name="majStock">Enter a amount</string>
+
+  <!-- activity_liste_echantillon -->
+  <string name="listeTitle">List of samples</string>
+  <string name="listeSelection">You have selected :</string>
+  <string name="language">Language</string>
+</resources>

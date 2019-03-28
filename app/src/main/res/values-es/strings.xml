@@ -1,0 +1,33 @@
+<resources>
+  <string name="app_name">Galaxy Swiss Bourdin</string>
+
+  <!-- Other -->
+  <string name="nothing"> </string>
+  <string name="add">Añadir</string>
+  <string name="delete">Retirar</string>
+  <string name="leave">Salir</string>
+  <string name="reset">Reiniciar</string>
+
+  <!-- activity_main -->
+  <string name="mainTitle">Solicitud de manejo de muestras de complementos alimenticios.</string>
+  <string name="mainAjout">Añadir una nueva muestra</string>
+  <string name="mainListe">Lista de muestras</string>
+  <string name="mainMaj">Actualizar una muestra</string>
+
+  <!-- activity_saisie_echantillon -->
+  <string name="saisieTitle">Ingrese una muestra</string>
+  <string name="saisieCode">Ingresa un código</string>
+  <string name="saisieLibelle">Introduce una etiqueta</string>
+  <string name="saisieStock">Ingrese una cantidad</string>
+
+  <!-- activity_maj_echantillon -->
+  <string name="majTitle">Actualizar una muestra</string>
+  <string name="majCode">Ingresa un código</string>
+  <string name="majLibelle">Introduce una etiqueta</string>
+  <string name="majStock">Ingrese una cantidad</string>
+
+  <!-- activity_liste_echantillon -->
+  <string name="listeTitle">Lista de muestras</string>
+  <string name="listeSelection">Usted ha seleccionado :</string>
+  <string name="language">El Pueblo</string>
+</resources>

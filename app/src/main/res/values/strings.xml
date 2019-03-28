@@ -1,0 +1,33 @@
+<resources>
+  <string name="app_name">Galaxy Swiss Bourdin</string>
+
+  <!-- Other -->
+  <string name="nothing"> </string>
+  <string name="add">Ajouter</string>
+  <string name="delete">Supprimer</string>
+  <string name="leave">Quitter</string>
+  <string name="reset">Réinitialisation</string>
+  <string name="language">Language</string>
+
+  <!-- activity_main -->
+  <string name="mainTitle">Application de gestion des échantillons de compléments alimentaires</string>
+  <string name="mainAjout">Ajouter un nouvel échantillon</string>
+  <string name="mainListe">Liste des echantillons</string>
+  <string name="mainMaj">Maj d\'un échantillon</string>
+
+  <!-- activity_saisie_echantillon -->
+  <string name="saisieTitle">Saisie d\'un échantillon</string>
+  <string name="saisieCode">Saisir un code</string>
+  <string name="saisieLibelle">Saisir un libellé</string>
+  <string name="saisieStock">Saisie ici un stock</string>
+
+  <!-- activity_maj_echantillon -->
+  <string name="majTitle">Mise à jour d\'un échantillon</string>
+  <string name="majCode">Saisir un code</string>
+  <string name="majLibelle">Saisir un libelle</string>
+  <string name="majStock">Saisie ici une quantité</string>
+
+  <!-- activity_liste_echantillon -->
+  <string name="listeTitle">Liste des échantillons</string>
+  <string name="listeSelection">Vous avez sélectionné :</string>
+</resources>

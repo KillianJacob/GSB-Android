@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:id="@+id/mainLayout"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".MainActivity"
+  android:background="@drawable/background_animated">
+
+  <TextView
+    android:id="@+id/tv1"
+    android:layout_width="275dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="100dp"
+    android:layout_centerHorizontal="true"
+    android:text="@string/mainTitle"
+    android:textAlignment="center"
+    android:textColor="@color/colorPrimary"
+    android:textSize="22sp"/>
+
+  <Button
+    android:id="@+id/bt1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:background="@drawable/button_main"
+    android:minWidth="250dp"
+    android:text="@string/mainAjout"
+    android:textSize="12sp"/>
+
+  <Button
+    android:id="@+id/bt2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="100dp"
+    android:layout_alignTop="@+id/bt1"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/button_main"
+    android:minWidth="250dp"
+    android:text="@string/mainListe"
+    android:textSize="12sp"/>
+
+  <Button
+    android:id="@+id/bt3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="100dp"
+    android:layout_alignTop="@+id/bt2"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/button_main"
+    android:minWidth="250dp"
+    android:text="@string/mainMaj"
+    android:textSize="12sp"/>
+  <ImageButton
+    android:id="@+id/ibSettings"
+    android:layout_width="35dp"
+    android:layout_height="35dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginStart="10dp"
+    android:background="@drawable/ic_settings_white"
+    android:contentDescription="@string/nothing"/>
+
+</RelativeLayout>
